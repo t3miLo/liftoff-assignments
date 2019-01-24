@@ -14,9 +14,10 @@ Modal for Update - Modal that will pop up after the edit button is click to edit
 Modal for Delete - Modal that will pop up after user clicks Delete to confirm they want to remove the item.
 
 ### Technologies
-Frontend = ReactJS
-Backend = Flask(Python)
-DB = MongoDB
+### Frontend = ReactJS
+### Backend = Flask(Python)
+### DB = MongoDB
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+What ill learn is how to utilize frontend framework of Reactjs and be able to create multiple components to be able to pass data from one to another. For the bankend using Flask ill  have to create multiple end points to be able to request Ajax request to the database, to be able to register, login users, as well as individual items that the users are adding/editing or deleting.
+
